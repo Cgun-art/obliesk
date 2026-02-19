@@ -1,7 +1,7 @@
-colors(all(hex))
+colors="(all"(hex)")"
 
-gamut(RGB)
+gamut="(RGB)"
 
-gamut.roblox(RGB)
+gamut.roblox="(RGB)"
 
 render="DirectX.xboxone"
